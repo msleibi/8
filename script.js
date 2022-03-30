@@ -1,3 +1,7 @@
 function init() {
-  console.log("Los gehts!");
+  console.log("Auf gehts!");
+}
+
+function newsletter(){
+  console.log('Newsletter abonniert!');
 }

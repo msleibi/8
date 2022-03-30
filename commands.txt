@@ -1,0 +1,12 @@
+// install git histroy from vscode Plugins
+
+
+
+
+
+git log --graph --pretty=format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
+
+
+
+// for pretty log format forever :)	
+git config --global format.pretty format:'%Cred%h%Creset -%C(yellow)%d%Creset %s %Cgreen(%cr) %C(bold blue)<%an>%Creset' --abbrev-commit
