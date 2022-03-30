@@ -16,3 +16,5 @@ git config --global format.pretty format:'%Cred%h%Creset -%C(yellow)%d%Creset %s
 
 
 // install .gitignore Generator
+ctrl+p
+> git
